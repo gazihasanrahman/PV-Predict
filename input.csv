@@ -1,0 +1,2 @@
+Timestamp,Month,Minute_no,AirTemp,Azimuth,CloudOpacity,Dhi,Dni,Ghi,RelativeHumidity,Zenith,t-60,t-55,t-50,t-45,t-40,t-35,t-30,t-25,t-20,t-15,t-10,t-05
+2021-01-05 10:15,1,615,2.2,-150,27.8,170,30,179,84.5,73,58,90,125,137,127,112,123,144,179,226,271,284
